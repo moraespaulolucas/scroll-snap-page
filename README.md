@@ -1,3 +1,5 @@
 # scroll-snap-page
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/moraespaulolucas/scroll-snap-page)
+Single page using css native scroll snap properties and nav bar dynamic color changing
+
+Study project
